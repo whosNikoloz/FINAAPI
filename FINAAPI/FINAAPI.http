@@ -1,0 +1,6 @@
+@FINAAPI_HostAddress = http://localhost:5138
+
+GET {{FINAAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
